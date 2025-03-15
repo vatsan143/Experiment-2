@@ -1,5 +1,5 @@
 # Experiment-2
-Write a program in C language for Matrix multiplication fails. Introspect the causes for its failure and write down the possible reasons for its failure.
+Write a program in Python language for Matrix multiplication fails. Introspect the causes for its failure and write down the possible reasons for its failure. 
 ## Aim
 The aim of this program is to perform matrix multiplication, understand the causes for failure during its execution, and identify possible reasons for failure. Matrix multiplication is a binary operation that produces a matrix from two matrices. The number of columns in the first matrix must be equal to the number of rows in the second matrix for multiplication to be possible.
 
